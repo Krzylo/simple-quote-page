@@ -1,3 +1,3 @@
 # simple-quote-page
 Podgląd
-![Podgląd strony]()
+![Podgląd strony](/assets/index.html.png)

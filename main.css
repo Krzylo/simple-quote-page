@@ -30,11 +30,13 @@ body {
   font-size: 1.5rem; 
 }
 
+/*
 .pl, .de {
   font-family: sans-serif;
   text-transform: uppercase;
   font-size: 1.5rem; 
 }
+*/
 
 .author {
   font-family: 'Crimson Text', serif;
